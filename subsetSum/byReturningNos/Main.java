@@ -1,12 +1,10 @@
-package jumpGame3;
+package subsetSum.byReturningNos;
 
-public class Solution {
-	
-	
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 }
