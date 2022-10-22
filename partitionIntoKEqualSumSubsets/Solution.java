@@ -7,7 +7,7 @@ public class Solution {
         int sum = 0;
         for(int x : nums) sum += x;
         if(sum % k != 0) return false;
-        
+        return true;
     }
 	
 	public static void main(String[] args) {
