@@ -30,7 +30,7 @@ public class Solution {
 
 	public static void main(String[] args) {
 		Solution s = new Solution();
-		int[] nums = {0, -3, 0};
+		int[] nums = {1, -3, -2};
 		System.out.println(s.maxProduct(nums));
 
 	}
